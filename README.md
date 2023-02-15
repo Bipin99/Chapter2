@@ -1,5 +1,15 @@
 # Chapter2
 
+- In the existing project
+● - intialized `npm` into  repo
+● - installed `react` and `react-dom`
+● - removed CDN links of react
+● - installed parcel
+● - ignited  app with parcel
+● - add scripts for “start” and “build” with parcel commands
+● - add `.gitignore` file
+● - add `browserlists`
+● - build a production version of your code using `parcel build`
  Q.What is `NPM`?
  ->
 npm is the world's largest Software Registry.
